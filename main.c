@@ -1,5 +1,5 @@
 int main()
 {
-prinf('Hello');
+prinf('Hello\n');
 }
 
