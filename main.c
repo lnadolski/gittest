@@ -1,5 +1,5 @@
 int main()
 {
-prinf('Hello\n');
+printf('Hello\n'); % remote
 }
 
